@@ -1,6 +1,6 @@
 Hi this is a test file
 
-Added new line
+modified line 2
 
 hi testing 2!!!
 
